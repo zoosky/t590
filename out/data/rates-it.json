@@ -1398,11 +1398,11 @@
   },
   {
     "rateId": "999",
-    "rateName": "Prestations ne figurant dans aucun des tarifs énumérés",
+    "rateName": "Servizi non inclusi in nessuna delle tariffe indicate",
     "chapterId": "2",
     "chapter": "Vario",
-    "itemId": "999",
-    "item": "",
+    "itemId": "9999",
+    "item": "Altri servizi, ogni 5 minuti",
     "remark": "ad es. referto medico, consultazione telefonica, rilascio delle ricette, etc.",
     "validFrom": "2002-01-01",
     "validTo": "9998-12-31"

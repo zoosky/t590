@@ -1401,8 +1401,8 @@
     "rateName": "Prestations ne figurant dans aucun des tarifs énumérés",
     "chapterId": "2",
     "chapter": "Diverses",
-    "itemId": "999",
-    "item": "",
+    "itemId": "9999",
+    "item": "Autres services, par période de 5 minutes",
     "remark": "Par exemple rapport médical, consultation téléphonique, établissement de l'ordonnance, etc.",
     "validFrom": "2002-01-01",
     "validTo": "9998-12-31"
@@ -1425,7 +1425,7 @@
     "chapter": "Laboratoire",
     "itemId": "1302",
     "item": "Services de laboratoire médecine complémentaires",
-    "remark": "Les prestations de laboratoire doivent être détaillées.",
+    "remark": "Les prestations de laboratoire doivent être détaillées. ",
     "validFrom": "2017-01-01",
     "validTo": "9998-12-31"
   }

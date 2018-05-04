@@ -1,5 +1,6 @@
 import jsf from "jsonfile";
-import rates from "./../data/t590";
+//import rates from "./../data/t590";
+import rates from "./../data/out-t590.json";
 // test data: import rates from './../data/t590test'
 
 import {

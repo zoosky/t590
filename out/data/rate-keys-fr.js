@@ -126,7 +126,7 @@ export const ratekeysfr = [
   "1252 Supplément consultation extraordinaire dans des situations aigües",
   "1253 Rapport formalisé",
   "1254 Rapport non formalisé",
-  "999 ",
+  "9999 Autres services, par période de 5 minutes",
   "1310 Remèdes médecine complémentaire",
   "1302 Services de laboratoire médecine complémentaires"
 ]

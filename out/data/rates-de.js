@@ -1392,7 +1392,7 @@ export const ratesde = [
     "chapter": "Diverses",
     "itemId": "1254",
     "item": "Nicht formalisierter Bericht",
-    "remark": "Pauschale für die Erstellung eines Berichts. Nicht formalisierte Berichte sind in der Gestaltung frei.",
+    "remark": "Pauschale für die Erstellung eines Berichts. Nicht formalisierte Berichte sind in der Gestaltung frei. ",
     "validFrom": "2018-01-01",
     "validTo": "9998-12-31"
   },
@@ -1401,8 +1401,8 @@ export const ratesde = [
     "rateName": "Leistungen, die in keinem der aufgeführten Tarife enthalten sind",
     "chapterId": "2",
     "chapter": "Diverses",
-    "itemId": "999",
-    "item": "",
+    "itemId": "9999",
+    "item": "Andere Leistungen, pro 5 Minuten",
     "remark": "z.B. Medizinischer Bericht, telefonische Konsultation, Rezepterstellung, etc.",
     "validFrom": "2002-01-01",
     "validTo": "9998-12-31"
